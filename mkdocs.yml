@@ -1,0 +1,8 @@
+site_name: Mi Documentacion
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
